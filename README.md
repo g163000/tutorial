@@ -47,5 +47,9 @@ https://gist.githubusercontent.com/g163000/8a97axxxxxxxxxxedecc5/raw/clash.yaml
 #### 三、转换订阅链接
 
 1. 进入 [订阅地址转换](https://sub.cfip.gay/) 网站，将第13步复制的去掉版本id的链接，粘贴进输入框
-2. 如果使用的是 [Hiddify](https://github.com/hiddify/hiddify-next/releases) 代理软件，则生成类型选择 `Sing-Box`
-3. 先点击 "生成订阅连接"，再点击 "生成短连接"，将生成的长连接或短连接复制代理软件里，即可使用。
+2. 先点击 "生成订阅连接"，再点击 "生成短连接"，将生成的长连接或短连接复制代理软件里，即可使用
+  
+- 如果使用的是 [Hiddify](https://github.com/hiddify/hiddify-next/releases) 代理软件，则生成类型选择 `Sing-Box`
+- 如果使用的是 [FlClash](https://github.com/chen08209/FlClash/releases) 代理软件，则直接使用第13步的地址，无需转换
+
+
