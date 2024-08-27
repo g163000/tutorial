@@ -51,5 +51,6 @@ https://gist.githubusercontent.com/g163000/8a97axxxxxxxxxxedecc5/raw/clash.yaml
   
 - 如果使用的是 [Hiddify](https://github.com/hiddify/hiddify-next/releases) 代理软件，则生成类型选择 `Sing-Box`
 - 如果使用的是 [FlClash](https://github.com/chen08209/FlClash/releases) 代理软件，则直接使用第13步的地址，无需转换
+- 如果使用的是 [lash Verge](https://github.com/clash-verge-rev/clash-verge-rev/releases) 代理软件，也无需转换
 
 
